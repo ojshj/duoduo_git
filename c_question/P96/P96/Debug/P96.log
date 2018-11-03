@@ -1,0 +1,5 @@
+﻿  P96.cpp
+e:\duoduo_svn\c\test\p96\p96\p96.cpp(13): error C3861: “clrscr”: 找不到标识符
+e:\duoduo_svn\c\test\p96\p96\p96.cpp(16): error C3861: “randomize”: 找不到标识符
+e:\duoduo_svn\c\test\p96\p96\p96.cpp(18): warning C4474: printf: 格式字符串中传递的参数太多
+  e:\duoduo_svn\c\test\p96\p96\p96.cpp(18): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
