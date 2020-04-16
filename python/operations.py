@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import cv2
+from cv2 import cv2
 
 img1 = cv2.imread('sample1.jpg')
 img2 = cv2.imread('sample2.png')
