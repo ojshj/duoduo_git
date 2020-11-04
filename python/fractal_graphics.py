@@ -38,7 +38,7 @@ def c():
     a_line(length, level)
     turtle.right(angle)
 
-    turtle.done()
+    turtle.mainloop()
 
 
 c()
